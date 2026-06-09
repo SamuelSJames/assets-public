@@ -2,7 +2,7 @@
 
 **Free-to-use icons, logos, and brand assets for developers and creators.**
 
-Served via GitHub Pages CDN — fast, reliable, globally distributed.
+Served via GitHub Pages — fast, reliable, globally distributed.
 
 ---
 
@@ -11,7 +11,7 @@ Served via GitHub Pages CDN — fast, reliable, globally distributed.
 Reference any asset directly in your HTML, CSS, or Markdown:
 
 ```html
-<img src="https://samuelsjames.github.io/assets-public/logos/tools/aws-logo.svg" alt="AWS">
+<img src="https://samuelsjames.github.io/assets-public/logos/tools/aws-logo.svg" alt="AWS" width="40">
 ```
 
 ```css
@@ -26,16 +26,23 @@ No downloads required. No attribution required. Just link and use.
 
 ---
 
+## 🌐 Base URL
+
+```
+https://samuelsjames.github.io/assets-public/
+```
+
+---
+
 ## 📂 Structure
 
 ```
 assets-public/
 ├── logos/
-│   ├── aws/          AWS service icons (EC2, S3, VPC, Lambda, etc.)
-│   ├── tools/        Dev & infra tools (Cisco, Ansible, Bash, Python, Linux, Git)
-│   └── platforms/    Platform logos (GitHub, Gitea)
-├── icons/            UI icons and illustrations
-├── brand/            Backgrounds, textures, profile assets
+│   ├── aws/          AWS service icons
+│   ├── tools/        Dev & infra tool logos
+│   └── platforms/    Platform logos
+├── brand/            Backgrounds & profile assets
 └── README.md
 ```
 
@@ -43,78 +50,60 @@ assets-public/
 
 ## 🗂️ Available Assets
 
-### AWS Service Icons (`logos/aws/`)
+### AWS Service Icons — `logos/aws/`
+
 | Asset | Preview | URL |
 |-------|---------|-----|
-| EC2 | ☁️ | `logos/aws/EC2.svg` |
-| S3 | ☁️ | `logos/aws/Simple-Storage-Service.svg` |
-| CloudWatch | ☁️ | `logos/aws/CloudWatch.svg` |
-| CloudFormation | ☁️ | `logos/aws/CloudFormation.svg` |
-| VPC | ☁️ | `logos/aws/Virtual-Private-Cloud.svg` |
-| Lambda | ☁️ | `logos/aws/Lambda.svg` |
-| Route 53 | ☁️ | `logos/aws/Route-53.svg` |
-| IAM Identity Center | ☁️ | `logos/aws/IAM-Identity-Center.svg` |
-| KMS | ☁️ | `logos/aws/Key-Management-Service.svg` |
-| Budgets | ☁️ | `logos/aws/Budgets.svg` |
+| EC2 | <img src="https://samuelsjames.github.io/assets-public/logos/aws/EC2.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/EC2.svg` |
+| S3 | <img src="https://samuelsjames.github.io/assets-public/logos/aws/Simple-Storage-Service.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/Simple-Storage-Service.svg` |
+| CloudWatch | <img src="https://samuelsjames.github.io/assets-public/logos/aws/CloudWatch.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/CloudWatch.svg` |
+| CloudFormation | <img src="https://samuelsjames.github.io/assets-public/logos/aws/CloudFormation.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/CloudFormation.svg` |
+| VPC | <img src="https://samuelsjames.github.io/assets-public/logos/aws/Virtual-Private-Cloud.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/Virtual-Private-Cloud.svg` |
+| Lambda | <img src="https://samuelsjames.github.io/assets-public/logos/aws/Lambda.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/Lambda.svg` |
+| Route 53 | <img src="https://samuelsjames.github.io/assets-public/logos/aws/Route-53.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/Route-53.svg` |
+| IAM Identity Center | <img src="https://samuelsjames.github.io/assets-public/logos/aws/IAM-Identity-Center.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/IAM-Identity-Center.svg` |
+| KMS | <img src="https://samuelsjames.github.io/assets-public/logos/aws/Key-Management-Service.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/Key-Management-Service.svg` |
+| Budgets | <img src="https://samuelsjames.github.io/assets-public/logos/aws/Budgets.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/Budgets.svg` |
 
-### Dev & Infra Tools (`logos/tools/`)
-| Asset | URL |
-|-------|-----|
-| AWS Logo | `logos/tools/aws-logo.svg` |
-| Cisco (Blue) | `logos/tools/cisco-blue-logo.svg` |
-| Ansible | `logos/tools/ansible-color-logo.svg` |
-| Linux (Tux) | `logos/tools/linux-logo.svg` |
-| Bash | `logos/tools/bash-logo.svg` |
-| Python | `logos/tools/python-logo.svg` |
-| Cloud Networking | `logos/tools/cloud-computing.svg` |
+### Dev & Infra Tools — `logos/tools/`
 
-### Platforms (`logos/platforms/`)
-| Asset | URL |
-|-------|-----|
-| GitHub | `logos/platforms/github-logo.svg` |
-| Gitea | `logos/platforms/gitea-logo.svg` |
+| Asset | Preview | URL |
+|-------|---------|-----|
+| AWS Logo | <img src="https://samuelsjames.github.io/assets-public/logos/tools/aws-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/aws-logo.svg` |
+| Cisco | <img src="https://samuelsjames.github.io/assets-public/logos/tools/cisco-blue-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/cisco-blue-logo.svg` |
+| Ansible | <img src="https://samuelsjames.github.io/assets-public/logos/tools/ansible-color-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/ansible-color-logo.svg` |
+| Linux | <img src="https://samuelsjames.github.io/assets-public/logos/tools/linux-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/linux-logo.svg` |
+| Bash | <img src="https://samuelsjames.github.io/assets-public/logos/tools/bash-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/bash-logo.svg` |
+| Python | <img src="https://samuelsjames.github.io/assets-public/logos/tools/python-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/python-logo.svg` |
+| Cloud Networking | <img src="https://samuelsjames.github.io/assets-public/logos/tools/cloud-computing.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/cloud-computing.svg` |
 
-### Brand Assets (`brand/`)
-| Asset | Description | URL |
-|-------|-------------|-----|
-| gh-bg.png | Dark navy circuit board background | `brand/gh-bg.png` |
-| profile.jpg | Professional headshot | `brand/profile.jpg` |
+### Platforms — `logos/platforms/`
 
----
+| Asset | Preview | URL |
+|-------|---------|-----|
+| GitHub | <img src="https://samuelsjames.github.io/assets-public/logos/platforms/github-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/platforms/github-logo.svg` |
+| Gitea | <img src="https://samuelsjames.github.io/assets-public/logos/platforms/gitea-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/platforms/gitea-logo.svg` |
 
-## 🌐 Base URL
+### Brand Assets — `brand/`
 
-All assets are available at:
-
-```
-https://samuelsjames.github.io/assets-public/
-```
-
-Append the file path from the structure above to get the full URL.
+| Asset | Preview | URL |
+|-------|---------|-----|
+| Background | <img src="https://samuelsjames.github.io/assets-public/brand/gh-bg.png" width="80"> | `https://samuelsjames.github.io/assets-public/brand/gh-bg.png` |
+| Profile | <img src="https://samuelsjames.github.io/assets-public/brand/profile.jpg" width="40"> | `https://samuelsjames.github.io/assets-public/brand/profile.jpg` |
 
 ---
 
 ## 📋 License
 
-**Free to use.** These assets are provided for anyone to use in personal or commercial projects. No attribution required, though a star ⭐ on this repo is always appreciated.
+**Free to use.** No attribution required, though a star ⭐ is appreciated.
 
-Some assets (AWS icons, Cisco logos, etc.) are trademarks of their respective companies and are included here for convenience in technical documentation and portfolio projects. Use them in accordance with each company's brand guidelines.
-
----
-
-## 🤝 Contributing
-
-Have a useful SVG or icon that should be here? Open a PR. Keep files:
-- SVG preferred (vector, small file size)
-- PNG only when SVG isn't available
-- Optimized (no unnecessary metadata)
-- Organized in the correct folder
+Some assets (AWS icons, Cisco logos, etc.) are trademarks of their respective companies. Use in accordance with their brand guidelines.
 
 ---
 
 ## ⚡ Why This Exists
 
-Instead of duplicating the same logos and icons across every project repo, this single CDN serves them all. One update here propagates everywhere instantly. Less repo bloat, faster builds, cleaner code.
+One CDN for all projects. Update here, propagates everywhere. No duplication, no bloat.
 
 ---
 
