@@ -19,7 +19,7 @@ background-image: url('https://samuelsjames.github.io/assets-public/brand/gh-bg.
 ```
 
 ```markdown
-![Cisco](https://samuelsjames.github.io/assets-public/logos/tools/cisco-blue-logo.svg)
+![Cisco](https://samuelsjames.github.io/assets-public/logos/tools/cisco-logo-blue.svg)
 ```
 
 No downloads required. No attribution required. Just link and use.
@@ -39,12 +39,24 @@ https://samuelsjames.github.io/assets-public/
 ```
 assets-public/
 ├── logos/
-│   ├── aws/          AWS service icons
-│   ├── tools/        Dev & infra tool logos
-│   └── platforms/    Platform logos
-├── brand/            Backgrounds & profile assets
+│   ├── aws/          AWS service icons (*-icon.svg)
+│   ├── tools/        Dev & infra tool logos (*-logo.svg)
+│   └── platforms/    Platform logos (*-logo.svg)
+├── brand/            Backgrounds (*-bg), profile assets
 └── README.md
 ```
+
+---
+
+## 🗂️ Naming Conventions
+
+| Type | Pattern | Example |
+|------|---------|---------|
+| Brand logos | `{name}-logo.svg` | `aws-logo.svg` |
+| Brand variants | `{name}-logo-{variant}.svg` | `cisco-logo-blue.svg` |
+| Service icons | `{name}-icon.svg` | `ec2-icon.svg` |
+| Backgrounds | `{name}-bg.png` | `gh-bg.png` |
+| Wallpapers | `{name}-wp.png` | — |
 
 ---
 
@@ -54,28 +66,28 @@ assets-public/
 
 | Asset | Preview | URL |
 |-------|---------|-----|
-| EC2 | <img src="https://samuelsjames.github.io/assets-public/logos/aws/EC2.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/EC2.svg` |
-| S3 | <img src="https://samuelsjames.github.io/assets-public/logos/aws/Simple-Storage-Service.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/Simple-Storage-Service.svg` |
-| CloudWatch | <img src="https://samuelsjames.github.io/assets-public/logos/aws/CloudWatch.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/CloudWatch.svg` |
-| CloudFormation | <img src="https://samuelsjames.github.io/assets-public/logos/aws/CloudFormation.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/CloudFormation.svg` |
-| VPC | <img src="https://samuelsjames.github.io/assets-public/logos/aws/Virtual-Private-Cloud.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/Virtual-Private-Cloud.svg` |
-| Lambda | <img src="https://samuelsjames.github.io/assets-public/logos/aws/Lambda.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/Lambda.svg` |
-| Route 53 | <img src="https://samuelsjames.github.io/assets-public/logos/aws/Route-53.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/Route-53.svg` |
-| IAM Identity Center | <img src="https://samuelsjames.github.io/assets-public/logos/aws/IAM-Identity-Center.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/IAM-Identity-Center.svg` |
-| KMS | <img src="https://samuelsjames.github.io/assets-public/logos/aws/Key-Management-Service.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/Key-Management-Service.svg` |
-| Budgets | <img src="https://samuelsjames.github.io/assets-public/logos/aws/Budgets.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/Budgets.svg` |
+| EC2 | <img src="https://samuelsjames.github.io/assets-public/logos/aws/ec2-icon.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/ec2-icon.svg` |
+| S3 | <img src="https://samuelsjames.github.io/assets-public/logos/aws/s3-icon.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/s3-icon.svg` |
+| CloudWatch | <img src="https://samuelsjames.github.io/assets-public/logos/aws/cloudwatch-icon.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/cloudwatch-icon.svg` |
+| CloudFormation | <img src="https://samuelsjames.github.io/assets-public/logos/aws/cloudformation-icon.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/cloudformation-icon.svg` |
+| VPC | <img src="https://samuelsjames.github.io/assets-public/logos/aws/vpc-icon.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/vpc-icon.svg` |
+| Lambda | <img src="https://samuelsjames.github.io/assets-public/logos/aws/lambda-icon.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/lambda-icon.svg` |
+| Route 53 | <img src="https://samuelsjames.github.io/assets-public/logos/aws/route-53-icon.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/route-53-icon.svg` |
+| IAM Identity Center | <img src="https://samuelsjames.github.io/assets-public/logos/aws/iam-identity-center-icon.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/iam-identity-center-icon.svg` |
+| KMS | <img src="https://samuelsjames.github.io/assets-public/logos/aws/kms-icon.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/kms-icon.svg` |
+| Budgets | <img src="https://samuelsjames.github.io/assets-public/logos/aws/budgets-icon.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/aws/budgets-icon.svg` |
 
 ### Dev & Infra Tools — `logos/tools/`
 
 | Asset | Preview | URL |
 |-------|---------|-----|
-| AWS Logo | <img src="https://samuelsjames.github.io/assets-public/logos/tools/aws-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/aws-logo.svg` |
-| Cisco | <img src="https://samuelsjames.github.io/assets-public/logos/tools/cisco-blue-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/cisco-blue-logo.svg` |
-| Ansible | <img src="https://samuelsjames.github.io/assets-public/logos/tools/ansible-color-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/ansible-color-logo.svg` |
+| AWS | <img src="https://samuelsjames.github.io/assets-public/logos/tools/aws-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/aws-logo.svg` |
+| Cisco (Blue) | <img src="https://samuelsjames.github.io/assets-public/logos/tools/cisco-logo-blue.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/cisco-logo-blue.svg` |
+| Ansible (Color) | <img src="https://samuelsjames.github.io/assets-public/logos/tools/ansible-logo-color.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/ansible-logo-color.svg` |
 | Linux | <img src="https://samuelsjames.github.io/assets-public/logos/tools/linux-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/linux-logo.svg` |
 | Bash | <img src="https://samuelsjames.github.io/assets-public/logos/tools/bash-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/bash-logo.svg` |
 | Python | <img src="https://samuelsjames.github.io/assets-public/logos/tools/python-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/python-logo.svg` |
-| Cloud Networking | <img src="https://samuelsjames.github.io/assets-public/logos/tools/cloud-computing.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/cloud-computing.svg` |
+| Cloud Networking | <img src="https://samuelsjames.github.io/assets-public/logos/tools/cloud-networking-icon.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/tools/cloud-networking-icon.svg` |
 
 ### Platforms — `logos/platforms/`
 
@@ -98,12 +110,6 @@ assets-public/
 **Free to use.** No attribution required, though a star ⭐ is appreciated.
 
 Some assets (AWS icons, Cisco logos, etc.) are trademarks of their respective companies. Use in accordance with their brand guidelines.
-
----
-
-## ⚡ Why This Exists
-
-One CDN for all projects. Update here, propagates everywhere. No duplication, no bloat.
 
 ---
 
