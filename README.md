@@ -15,7 +15,7 @@ Reference any asset directly in your HTML, CSS, or Markdown:
 ```
 
 ```css
-background-image: url('https://samuelsjames.github.io/assets-public/brand/gh-bg.png');
+background-image: url('https://samuelsjames.github.io/assets-public/backgrounds/gh-bg.png');
 ```
 
 ```markdown
@@ -42,7 +42,7 @@ assets-public/
 │   ├── aws/          AWS service icons (*-icon.svg)
 │   ├── tools/        Dev & infra tool logos (*-logo.svg)
 │   └── platforms/    Platform logos (*-logo.svg)
-├── brand/            Backgrounds (*-bg), profile assets
+├── backgrounds/            Backgrounds (*-bg), profile assets
 └── README.md
 ```
 
@@ -96,12 +96,12 @@ assets-public/
 | GitHub | <img src="https://samuelsjames.github.io/assets-public/logos/platforms/github-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/platforms/github-logo.svg` |
 | Gitea | <img src="https://samuelsjames.github.io/assets-public/logos/platforms/gitea-logo.svg" width="30"> | `https://samuelsjames.github.io/assets-public/logos/platforms/gitea-logo.svg` |
 
-### Brand Assets — `brand/`
+### Brand Assets — `backgrounds/`
 
 | Asset | Preview | URL |
 |-------|---------|-----|
-| Background | <img src="https://samuelsjames.github.io/assets-public/brand/gh-bg.png" width="80"> | `https://samuelsjames.github.io/assets-public/brand/gh-bg.png` |
-| Profile | <img src="https://samuelsjames.github.io/assets-public/brand/profile.jpg" width="40"> | `https://samuelsjames.github.io/assets-public/brand/profile.jpg` |
+| Background | <img src="https://samuelsjames.github.io/assets-public/backgrounds/gh-bg.png" width="80"> | `https://samuelsjames.github.io/assets-public/backgrounds/gh-bg.png` |
+| Profile | <img src="https://samuelsjames.github.io/assets-public/backgrounds/profile.jpg" width="40"> | `https://samuelsjames.github.io/assets-public/backgrounds/profile.jpg` |
 
 ---
 
