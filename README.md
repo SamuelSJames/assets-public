@@ -46,16 +46,16 @@ assets-public/
 ### AWS Service Icons (`logos/aws/`)
 | Asset | Preview | URL |
 |-------|---------|-----|
-| EC2 | ☁️ | `logos/aws/EC2.svg` |
-| S3 | ☁️ | `logos/aws/Simple-Storage-Service.svg` |
-| CloudWatch | ☁️ | `logos/aws/CloudWatch.svg` |
-| CloudFormation | ☁️ | `logos/aws/CloudFormation.svg` |
-| VPC | ☁️ | `logos/aws/Virtual-Private-Cloud.svg` |
-| Lambda | ☁️ | `logos/aws/Lambda.svg` |
-| Route 53 | ☁️ | `logos/aws/Route-53.svg` |
-| IAM Identity Center | ☁️ | `logos/aws/IAM-Identity-Center.svg` |
-| KMS | ☁️ | `logos/aws/Key-Management-Service.svg` |
-| Budgets | ☁️ | `logos/aws/Budgets.svg` |
+| EC2 | ☁️ | `logos/aws/ec2-icon.svg` |
+| S3 | ☁️ | `logos/aws/s3-icon.svg` |
+| CloudWatch | ☁️ | `logos/aws/cloudwatch-icon.svg` |
+| CloudFormation | ☁️ | `logos/aws/cloudformation-icon.svg` |
+| VPC | ☁️ | `logos/aws/vpc-icon.svg` |
+| Lambda | ☁️ | `logos/aws/lambda-icon.svg` |
+| Route 53 | ☁️ | `logos/aws/route53-icon.svg` |
+| IAM Identity Center | ☁️ | `logos/aws/iam-identity-center-icon.svg` |
+| KMS | ☁️ | `logos/aws/kms-icon.svg` |
+| Budgets | ☁️ | `logos/aws/budgets-icon.svg` |
 
 ### Dev & Infra Tools (`logos/tools/`)
 | Asset | URL |
@@ -66,7 +66,7 @@ assets-public/
 | Linux (Tux) | `logos/tools/linux-logo.svg` |
 | Bash | `logos/tools/bash-logo.svg` |
 | Python | `logos/tools/python-logo.svg` |
-| Cloud Networking | `logos/tools/cloud-computing.svg` |
+| Cloud Networking | `logos/tools/cloud-networking-logo.svg` |
 
 ### Platforms (`logos/platforms/`)
 | Asset | URL |
