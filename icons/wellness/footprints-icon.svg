@@ -1,0 +1,67 @@
+<svg width="100%" viewBox="0 0 680 480" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Cyan glowing footprints icon</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Two glowing cyan bare footprints in a walking pattern on a dark background</desc>
+
+  <defs>
+    <filter id="neon" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="10" result="big"/>
+      <feGaussianBlur stdDeviation="4" result="mid"/>
+      <feMerge>
+        <feMergeNode in="big"/>
+        <feMergeNode in="big"/>
+        <feMergeNode in="mid"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Dark background -->
+  <rect x="130" y="30" width="420" height="420" rx="52" fill="#050F12" opacity="0.95" style="fill:rgb(5, 15, 18);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.95;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="130" y="30" width="420" height="420" rx="52" fill="none" stroke="#06B6D4" stroke-width="1" opacity="0.18" style="fill:none;stroke:rgb(6, 182, 212);color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.18;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- ============================================
+       LEFT FOOT — bottom-left, toes pointing up-left
+       ============================================ -->
+  <g filter="url(#neon)" transform="translate(218, 250) rotate(-15)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <!-- Heel -->
+    <ellipse cx="0" cy="42" rx="26" ry="22" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Mid foot / arch -->
+    <path d="M-26,42 C-28,20 -20,4 0,-8 C20,4 28,20 26,42" fill="#06B6D4" opacity="0.12" stroke="#22D3EE" stroke-width="2.5" stroke-linecap="round" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.12;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Ball of foot -->
+    <ellipse cx="0" cy="-14" rx="28" ry="18" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Big toe -->
+    <ellipse cx="-18" cy="-36" rx="10" ry="12" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Toe 2 -->
+    <ellipse cx="-6" cy="-42" rx="8" ry="10" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Toe 3 -->
+    <ellipse cx="6" cy="-42" rx="7" ry="10" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Toe 4 -->
+    <ellipse cx="16" cy="-38" rx="6" ry="9" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Little toe -->
+    <ellipse cx="24" cy="-32" rx="5" ry="8" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  </g>
+
+  <!-- ============================================
+       RIGHT FOOT — top-right, toes pointing up-right
+       mirrored (scale -1 on x) + offset
+       ============================================ -->
+  <g filter="url(#neon)" transform="translate(462, 160) rotate(15) scale(-1,1)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <!-- Heel -->
+    <ellipse cx="0" cy="42" rx="26" ry="22" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Mid foot / arch -->
+    <path d="M-26,42 C-28,20 -20,4 0,-8 C20,4 28,20 26,42" fill="#06B6D4" opacity="0.12" stroke="#22D3EE" stroke-width="2.5" stroke-linecap="round" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.12;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Ball of foot -->
+    <ellipse cx="0" cy="-14" rx="28" ry="18" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Big toe -->
+    <ellipse cx="-18" cy="-36" rx="10" ry="12" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Toe 2 -->
+    <ellipse cx="-6" cy="-42" rx="8" ry="10" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Toe 3 -->
+    <ellipse cx="6" cy="-42" rx="7" ry="10" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Toe 4 -->
+    <ellipse cx="16" cy="-38" rx="6" ry="9" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Little toe -->
+    <ellipse cx="24" cy="-32" rx="5" ry="8" fill="#06B6D4" opacity="0.15" stroke="#22D3EE" stroke-width="2.5" style="fill:rgb(6, 182, 212);stroke:rgb(34, 211, 238);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  </g>
+
+</svg>

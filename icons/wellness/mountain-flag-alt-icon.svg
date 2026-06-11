@@ -1,0 +1,48 @@
+<svg width="100%" viewBox="0 0 680 520" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Mountain with flag icon</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">A cartoon-style filled mountain with snow cap and waving flag</desc>
+
+  <g transform="translate(340, 260)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+
+    <!-- Mountain base body -->
+    <path d="&#10;      M -185,140&#10;      C -180,145 -150,155 -120,148&#10;      L -95,130&#10;      L -75,140&#10;      C -55,150 -30,158 0,158&#10;      C 30,158 55,150 75,140&#10;      L 95,130&#10;      L 120,148&#10;      C 150,155 180,145 185,140&#10;      L 150,80&#10;      L 120,95&#10;      L 90,60&#10;      L 60,78&#10;      L 30,30&#10;      L 15,-10&#10;      L 0,-110&#10;      L -15,-10&#10;      L -30,30&#10;      L -60,78&#10;      L -90,60&#10;      L -120,95&#10;      L -150,80&#10;      Z&#10;    " fill="#8B7355" stroke="#3D3535" stroke-width="5" stroke-linejoin="round" style="fill:rgb(139, 115, 85);stroke:rgb(61, 53, 53);color:rgb(255, 255, 255);stroke-width:5px;stroke-linecap:butt;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Mountain shading — left dark face -->
+    <path d="M 0,-110 L -15,-10 L -30,30 L -60,78 L -80,60 L -40,10 L -10,-20 Z" fill="#6B5740" opacity="0.5" style="fill:rgb(107, 87, 64);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Rock highlight streaks left -->
+    <path d="M -50,55 L -30,10 L -18,30" fill="none" stroke="#C4B49A" stroke-width="3" stroke-linecap="round" opacity="0.6" style="fill:none;stroke:rgb(196, 180, 154);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.6;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <path d="M -90,95 L -70,62 L -55,72" fill="none" stroke="#C4B49A" stroke-width="2.5" stroke-linecap="round" opacity="0.5" style="fill:none;stroke:rgb(196, 180, 154);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Rock crack right -->
+    <path d="M 40,65 L 55,30 L 70,50" fill="none" stroke="#6B5740" stroke-width="3" stroke-linecap="round" opacity="0.55" style="fill:none;stroke:rgb(107, 87, 64);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.55;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <path d="M 80,100 L 95,68 L 110,82" fill="none" stroke="#6B5740" stroke-width="2.5" stroke-linecap="round" opacity="0.5" style="fill:none;stroke:rgb(107, 87, 64);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Bottom base curve dark outline -->
+    <path d="&#10;      M -185,140&#10;      C -150,165 -80,172 0,172&#10;      C 80,172 150,165 185,140&#10;    " fill="none" stroke="#3D3535" stroke-width="5" stroke-linecap="round" style="fill:none;stroke:rgb(61, 53, 53);color:rgb(255, 255, 255);stroke-width:5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Snow cap fill -->
+    <path d="&#10;      M 0,-110&#10;      L -15,-10&#10;      L -30,30&#10;      L -18,22&#10;      L -8,38&#10;      L 0,32&#10;      L 8,38&#10;      L 18,22&#10;      L 30,30&#10;      L 15,-10&#10;      Z&#10;    " fill="#E8E4DC" stroke="none" style="fill:rgb(232, 228, 220);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Snow cap shadow/depth -->
+    <path d="M 0,-110 L -10,-15 L -5,10 L 0,5 L 5,10 L 10,-15 Z" fill="#D0CBC0" opacity="0.6" style="fill:rgb(208, 203, 192);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.6;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Snow cap outline -->
+    <path d="&#10;      M 0,-110&#10;      L -15,-10&#10;      L -30,30&#10;      L -18,22&#10;      L -8,38&#10;      L 0,32&#10;      L 8,38&#10;      L 18,22&#10;      L 30,30&#10;      L 15,-10&#10;      Z&#10;    " fill="none" stroke="#3D3535" stroke-width="4.5" stroke-linejoin="round" style="fill:none;stroke:rgb(61, 53, 53);color:rgb(255, 255, 255);stroke-width:4.5px;stroke-linecap:butt;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Snow base drip left -->
+    <path d="M -30,30 C -24,36 -14,38 -8,38" fill="none" stroke="#C8C2B8" stroke-width="3" stroke-linecap="round" opacity="0.8" style="fill:none;stroke:rgb(200, 194, 184);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.8;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Snow base drip right -->
+    <path d="M 30,30 C 24,36 14,38 8,38" fill="none" stroke="#C8C2B8" stroke-width="3" stroke-linecap="round" opacity="0.8" style="fill:none;stroke:rgb(200, 194, 184);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.8;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Flagpole -->
+    <line x1="0" y1="-110" x2="0" y2="-188" stroke="#2C2C2C" stroke-width="5" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(44, 44, 44);color:rgb(255, 255, 255);stroke-width:5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Flag fill -->
+    <path d="M0,-188 C24,-176 54,-162 62,-145 C50,-130 22,-127 0,-138 Z" fill="#8B5E3C" stroke="#3D3535" stroke-width="4" stroke-linejoin="round" style="fill:rgb(139, 94, 60);stroke:rgb(61, 53, 53);color:rgb(255, 255, 255);stroke-width:4px;stroke-linecap:butt;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Flag highlight -->
+    <path d="M4,-182 C20,-173 40,-163 46,-150" fill="none" stroke="#C4906A" stroke-width="2.5" stroke-linecap="round" opacity="0.6" style="fill:none;stroke:rgb(196, 144, 106);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.6;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  </g>
+</svg>

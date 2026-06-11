@@ -26,17 +26,23 @@
 assets-public/
 ├── logos/           Brand & company logos (*-logo)
 ├── icons/
-│   └── aws/         AWS service icons (*-icon)
+│   ├── aws/         AWS service icons (*-icon)
+│   └── wellness/    SA Wellness Platform icons (*-icon)
 ├── backgrounds/     Reusable backgrounds (*-bg)
-├── brand/           Personal brand (profile photo, headshots)
+├── brand/           Personal brand (profile photo, headshots, dashboard brands)
+├── graphics/        Illustrations, dividers, decorative UI elements
 └── README.md
 ```
 
 ### Key differences:
 - **logos/** = The company/tool *itself* (AWS, Cisco, Linux, Python)
-- **icons/** = A *product or service within* a company (EC2, Lambda, S3)
+- **icons/** = A *product or service within* a company or app (EC2, Lambda, dashboard-icon)
 - **backgrounds/** = Textures/patterns usable across any project
-- **brand/** = Personal identity assets (not logos — headshots, avatars)
+- **brand/** = Personal/project identity assets (headshots, dashboard brands)
+- **graphics/** = Decorative illustrations, dividers, activity art (not icons or logos)
+
+### Metadata
+Each folder contains a `metadata.md` file describing every asset: filename, description, source, and project context.
 
 ---
 
