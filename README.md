@@ -101,7 +101,7 @@ assets-public/
 | Asset | Preview | URL |
 |-------|---------|-----|
 | Background | <img src="https://samuelsjames.github.io/assets-public/backgrounds/gh-bg.png" width="80"> | `https://samuelsjames.github.io/assets-public/backgrounds/gh-bg.png` |
-| Profile | <img src="https://samuelsjames.github.io/assets-public/backgrounds/profile.jpg" width="40"> | `https://samuelsjames.github.io/assets-public/backgrounds/profile.jpg` |
+| Avatar | <img src="https://samuelsjames.github.io/assets-public/backgrounds/avatar-thinking-headphones.png" width="40"> | `https://samuelsjames.github.io/assets-public/backgrounds/avatar-thinking-headphones.png` |
 
 ---
 
